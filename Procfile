@@ -1,0 +1,1 @@
+web: gunicorn jasoseolproject.wsgi --log-file -
